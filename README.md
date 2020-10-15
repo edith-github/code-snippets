@@ -43,5 +43,5 @@ Go through the FAQs section on the Hacktoberfest website - https://hacktoberfest
 7. Click on compare across forks and select **head repository** as your own forked repository and the new branch with changes
 8. Click on **Create pull request**
 
-Congrats!! You have created a new pull request!
+Congrats!! You have created a new pull request!!
 
