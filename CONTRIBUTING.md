@@ -13,6 +13,6 @@ To contribute to this repository and add  code snippets, the following pointers 
     ```
     ~~~
 4. You can add a **Description** sub-heading if you want to provide an explanation! 
-5. Add a **Contributed By** sub-heading at the end of the file and add your name and GitHub username  in a tabular format in the markdown file.
+
 
 ## Do not add pure code files, add your snippets in the code blocks in the markdown file.
