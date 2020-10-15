@@ -6,7 +6,7 @@ To contribute to this repository and add  code snippets, the following pointers 
 - Create a markdown file with a suitable name according to your snippet. Make sure the code snippet is not already in the codebase and is in the correct sub-directory.
 
 
-- Add the snippet and output in the appropriate block. For example, for a python snippet:
+- Add the snippet and output in the appropriate block. For example, for a java snippet:
     ~~~
     ```java
     print("code snippet here")
