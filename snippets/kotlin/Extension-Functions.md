@@ -5,9 +5,6 @@ Two String [extension functions](https://kotlinlang.org/docs/reference/extension
 ```kotlin
 
 fun String.wordCount(): Int {
-    if (this.isBlank()) {
-        return 0
-    }
     return this.split(" ").filter { it.isWord() }.size
 }
 
