@@ -31,6 +31,7 @@ Go through the FAQs section on the Hacktoberfest website - https://hacktoberfest
 + Step 4 - Code and create a pull request - Go through the [Contributing Guidelines.](CONTRIBUTING.md)
 
 ### Pull requests for Hacktoberfest count from October 1st to 31st.
+**`FEW DAYS LEFT !!`**
 
 # Creating a pull request
 
