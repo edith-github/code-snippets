@@ -14,7 +14,6 @@ will check if the given string is in fact a word.  The final extension function 
 /**
  * String extension to count the number of words separated by a space.
  */
-
 fun String.wordCount(): Int {
     return this.split(" ").filter { it.isWord() }.size
 }
