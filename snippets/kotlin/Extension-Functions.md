@@ -91,6 +91,11 @@ fun main(args: Array<String>) {
 
     println("\n======================================================================= ^_^")
 }
+
+fun printWordCount(input: String) {
+    val wordCount = input.wordCount()
+    println("\"$input\" contains $wordCount ${"word".plural(wordCount)}")
+}
 ```
 
 #### Screenshots
