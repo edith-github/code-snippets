@@ -1,7 +1,6 @@
 # code-snippets
 
-#### Add cool code snippets , but the code should be genuine and helpful (not just copy paste from any site )
-
+#### Add code snippets , but the code should be genuine and helpful (not just copy paste from any site )
 
 ## Contributing
 
@@ -9,29 +8,8 @@
 
 # Hacktoberfest
 
-
-![Hacktoberfest2020](https://user-images.githubusercontent.com/72942121/96176174-9a425600-0f49-11eb-9d3b-ea90f879860b.png)
-
-Hacktoberfest is a month-long celebration of open source software in partnership with Github.
-A repository for beginners to create their first Pull Request and repository for veteran contributors to contribute cool snippets.
-
-## Create 4 valid pull requests to get official Hacktoberfest Swags and Goodies
-
-Anyone can sign up anytime between October 1 and October 31.
-
-## PRs made without adding any useful Resource / Code / Solving Issues will be marked as invalid/spam.
-
-# How to take part in Hacktoberfest?
-
-Go through the FAQs section on the Hacktoberfest website - https://hacktoberfest.digitalocean.com/faq/
-
-+ Step 1 - Create a GitHub account for free.
-+ Step 2 - Register at [Hacktoberfest official website](https://hacktoberfest.digitalocean.com) using your GitHub ID.
-+ Step 3 - Star this repository and fork it.
-+ Step 4 - Code and create a pull request - Go through the [Contributing Guidelines.](CONTRIBUTING.md)
-
-### Pull requests for Hacktoberfest count from October 1st to 31st.
-**`FEW DAYS LEFT !!`**
+### FINISHED
+`But contributions can be made anytime`
 
 # Creating a pull request
 
