@@ -6,10 +6,6 @@
 
 #### Go through the Contributing Guidelines for a detailed information on contributing to this repository!
 
-# Hacktoberfest
-
-### FINISHED
-`But contributions can be made anytime`
 
 # Creating a pull request
 
