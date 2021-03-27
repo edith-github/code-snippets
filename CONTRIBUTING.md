@@ -1,5 +1,6 @@
 # Contributing Guidelines
 
+Read README.md file before moving forward
 
 To contribute to this repository and add  code snippets, the following pointers should be kept in mind to avoid merge conflicts and other problems such as a bad PR while contributing:
 
