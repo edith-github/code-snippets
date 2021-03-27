@@ -18,6 +18,7 @@
 7. Click on compare across forks and select **head repository** as your own forked repository and the new branch with changes
 8. Click on **Create pull request**
 9. Keep checking for reviews from maintainers
+10. keep contributing
 
 Congrats!! You have created a new pull request!!
 
