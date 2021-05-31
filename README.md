@@ -1,4 +1,4 @@
-# code-snippets 🔥
+# code-snippets 
 
 #### Add code snippets , but the code should be genuine and helpful (not just copy paste from any site )
 
